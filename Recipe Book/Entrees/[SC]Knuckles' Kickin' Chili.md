@@ -33,21 +33,21 @@ Sodium--------------1530 mg
 
 ## Ingredients
 
-- **[2] Long Green Pepper**
-- **[4] Scallions**
-- **[2 clove] Garlic**
-- **[½ cup] Chopped onions**
+- [2] Long Green Pepper
+- [4] Scallions
+- [2 clove] Garlic
+- [½ cup] Chopped onions
     - About half an onion
-- **[40 oz] Ground Beef**
-- **[2 Tbsp] Mexican Seasoning**
+- [40 oz] Ground Beef
+- [2 Tbsp] Mexican Seasoning
     - Suggestion: Goya all purpose
-- **[2 Tbsp] Taco Seasoning**
-- **[2 cups] Beef Broth**
+- [2 Tbsp] [Taco Seasoning]((https://github.com/seanmburns00/Dungeon-Delicacies/blob/main/Recipe%20Book/Seasonings/Taco%20Seasoning.md))
+- [2 cups] Beef Broth
     - Suggestion: Kettle & Fire Beef Broth
-- **[~41.5 oz] Black beans**
-- **[~15 oz] Red kidney beans**
-- **[6 oz] Tomato paste**
-- **[28 oz] Diced Tomatoes**
+- [~41.5 oz] Black beans
+- [~15 oz] Red kidney beans
+- [6 oz] Tomato paste
+- [28 oz] Diced Tomatoes
 
 **Not Required (Toppings)**
 - Sour Cream

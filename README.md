@@ -6,6 +6,7 @@ Here you will find a collection of my own personal recipes. Enjoy the culinary a
 
 ### Recipe Categories
 
+- **[Seasonings](https://github.com/seanmburns00/Dungeon-Delicacies/tree/main/Recipe%20Book/Seasonings)**
 - **[Appetizers](https://github.com/seanmburns00/Dungeon-Delicacies/tree/main/Recipe%20Book/Appetizers)**
 - **[Entrées](https://github.com/seanmburns00/Dungeon-Delicacies/tree/main/Recipe%20Book/Entrees)**
 - **[Desserts](https://github.com/seanmburns00/Dungeon-Delicacies/tree/main/Recipe%20Book/Desserts)**
@@ -33,7 +34,7 @@ Example: [A]Recipe Name.md
 
 When a new recipe is submitted a pdf file will be generated from the md file. This provides a place to download an print the recipe in the same styling as it appears when viewing the markdown file in GitHub. 
 
-**[See PDF Archive](https://github.com/seanmburns00/Dungeon-Delicacies/tree/main/Recipe%20Book/PDF%20Recipe%20Archive)**
+**[See PDF Archive](https://github.com/seanmburns00/Dungeon-Delicacies/tree/main/Recipe%20Book/.PDF%20Recipe%20Archive)**
 
 ## Featured Grub
 
