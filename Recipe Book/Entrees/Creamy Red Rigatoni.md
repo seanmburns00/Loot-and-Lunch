@@ -57,7 +57,7 @@ Sodium--------------301 mg
     - Peel and mince or grate garlic
 
 2. **Cook Pasta**
-    - Once waater is boiling, add rigatoni
+    - Once water is boiling, add rigatoni
     - Cook 10 minutes, stir occasionally
         - move to next step while pasta cooks
     - Reserve 1/3 cup pasta cooking water
