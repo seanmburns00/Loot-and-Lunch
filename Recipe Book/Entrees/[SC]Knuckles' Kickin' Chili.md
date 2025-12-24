@@ -41,7 +41,7 @@ Sodium--------------1530 mg
 - [40 oz] Ground Beef
 - [2 Tbsp] Mexican Seasoning
     - Suggestion: Goya all purpose
-- [2 Tbsp] [Taco Seasoning]((https://github.com/seanmburns00/Dungeon-Delicacies/blob/main/Recipe%20Book/Seasonings/Taco%20Seasoning.md))
+- [2 Tbsp] [Taco Seasoning](https://github.com/seanmburns00/Dungeon-Delicacies/blob/main/Recipe%20Book/Seasonings/Taco%20Seasoning.md)
 - [2 cups] Beef Broth
     - Suggestion: Kettle & Fire Beef Broth
 - [~41.5 oz] Black beans
